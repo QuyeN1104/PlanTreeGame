@@ -1,0 +1,150 @@
+Lá cây hấp thụ khí nào trong quá trình quang hợp?  
+0 N2  
+0 CO  
+0 O2  
+1 CO2  
+Vai trò chính của quang hợp trong hệ sinh thái là gì?  
+0 Giải phóng năng lượng dưới dạng nhiệt  
+0 Sản xuất oxy để duy trì sự sống trên Trái Đất  
+1 Tạo ra nguồn cacbohydrat dự trữ năng lượng  
+0 Phân giải năng lượng ánh sáng thành ATP  
+Nguyên liệu của quá trình quang hợp gồm những gì?  
+0 Glucozơ và oxy  
+0 Nước và ánh sáng  
+0 Glucozơ và CO2  
+1 CO2 và H2O  
+Vì sao lá cây thường có màu xanh lục?  
+0 Do ánh sáng xanh lục được lá hấp thụ mạnh nhất  
+1 Do sắc tố diệp lục phản xạ ánh sáng xanh lục  
+0 Do sắc tố caroten phản chiếu ánh sáng xanh lục  
+0 Do ánh sáng xanh lục không tác động đến diệp lục  
+Tốc độ quang hợp thay đổi như thế nào khi cường độ ánh sáng tăng lên?  
+0 Tăng liên tục  
+0 Giảm dần theo thời gian  
+1 Giảm sau khi đạt đến giới hạn bão hòa  
+0 Không thay đổi  
+Thành phần nào là sản phẩm của quang hợp?  
+0 ATP và NADPH  
+1 Glucozơ và oxy  
+0 CO2 và nước  
+0 Nước và oxy  
+Vai trò của khí khổng trong quá trình trao đổi chất ở lá cây là gì?  
+0 Hấp thụ nước từ rễ lên lá  
+1 Giúp thoát hơi nước và trao đổi khí  
+0 Chuyển hóa năng lượng ánh sáng thành hóa năng  
+0 Tổng hợp glucozơ từ CO2  
+Loại mô nào trong cây chịu trách nhiệm vận chuyển nước và khoáng từ rễ lên lá?  
+0 Mạch rây  
+1 Mạch gỗ  
+0 Lông hút  
+0 Bó mạch  
+Phương trình quang hợp tổng quát được viết như thế nào?  
+1 CO2 + H2O → C6H12O6 + O2  
+0 CO2 + H2O → C6H12O6 + O2 + ATP  
+0 H2O + O2 → CO2 + C6H12O6  
+0 O2 + H2O → C6H12O6 + CO2  
+Vai trò của quá trình thoát hơi nước ở lá cây là gì?  
+1 Giảm nhiệt độ bề mặt lá  
+0 Tăng khả năng hấp thụ CO2  
+0 Cung cấp năng lượng cho cây  
+0 Điều hòa hàm lượng đường trong lá  
+Quá trình nào cung cấp năng lượng trực tiếp cho hoạt động sống của tế bào?  
+1 Hô hấp hiếu khí  
+0 Quang hợp  
+0 Trao đổi chất  
+0 Hô hấp kỵ khí  
+Hô hấp hiếu khí xảy ra chủ yếu trong bào quan nào của tế bào?  
+0 Lục lạp  
+1 Ty thể  
+0 Nhân tế bào  
+0 Lưới nội chất  
+Yếu tố nào không ảnh hưởng trực tiếp đến quá trình quang hợp?  
+0 Cường độ ánh sáng  
+0 Hàm lượng nước trong đất  
+1 Hàm lượng oxy trong khí quyển  
+0 Nồng độ CO2 trong không khí  
+Quá trình hô hấp tế bào xảy ra mạnh nhất khi nào?  
+0 Ban ngày  
+1 Ban đêm  
+0 Lúc ánh sáng vừa phải  
+0 Ở nhiệt độ thấp  
+Mạch rây trong cây có vai trò gì?  
+0 Vận chuyển nước và khoáng từ rễ lên lá  
+1 Vận chuyển chất hữu cơ từ lá đến các bộ phận khác  
+0 Cung cấp năng lượng cho sự sinh trưởng  
+0 Thoát hơi nước qua khí khổng  
+Vai trò chính của nước trong quá trình quang hợp là gì?  
+0 Làm mát cây qua thoát hơi nước  
+1 Là nguyên liệu phân tách để tạo oxy  
+0 Hòa tan chất khoáng cho cây hấp thụ  
+0 Hình thành cấu trúc của lục lạp  
+Hô hấp kỵ khí xảy ra trong điều kiện nào?  
+0 Khi không có ánh sáng  
+1 Khi không có oxy  
+0 Khi nhiệt độ quá thấp  
+0 Khi nồng độ CO2 cao  
+Tại sao rễ cây có nhiều lông hút?  
+1 Tăng diện tích tiếp xúc hấp thụ nước và khoáng  
+0 Cung cấp oxy cho cây  
+0 Tạo môi trường axit để hòa tan khoáng  
+0 Chuyển hóa nước thành chất hữu cơ  
+Bộ phận nào của hoa đóng vai trò trong quá trình thụ phấn?  
+0 Cánh hoa  
+1 Nhị và nhụy  
+0 Đài hoa  
+0 Hạt phấn  
+Yếu tố nào ảnh hưởng đến khả năng thoát hơi nước của lá?  
+1 Độ ẩm không khí  
+0 Màu sắc lá  
+0 Số lượng lục lạp  
+0 Loại cây  
+Sự hấp thụ nước ở rễ xảy ra qua cơ quan nào?  
+0 Mạch gỗ  
+0 Mạch rây  
+1 Lông hút  
+0 Tế bào vỏ rễ  
+Vì sao khi tưới cây vào buổi trưa nắng gắt không hiệu quả?  
+0 Cây không hấp thụ nước vào ban ngày  
+1 Lượng nước bay hơi nhanh, không kịp hấp thụ  
+0 Rễ cây không hoạt động khi trời nắng  
+0 Nhiệt độ cao làm nước hóa hơi trực tiếp trong đất  
+Thí nghiệm nào chứng minh hô hấp tế bào ở hạt?  
+1 Sử dụng bình kín và phát hiện CO2  
+0 Đặt hạt vào ánh sáng và đo lượng O2  
+0 Ngâm hạt trong dung dịch muối  
+0 Đặt hạt trong môi trường thiếu nước  
+Vai trò của mô phân sinh ở thực vật là gì?  
+0 Hấp thụ nước và khoáng từ đất  
+1 Giúp cây sinh trưởng bằng cách phân chia tế bào  
+0 Tổng hợp năng lượng ATP  
+0 Vận chuyển chất dinh dưỡng  
+Phương pháp bảo quản hạt giống lâu dài thường được áp dụng là gì?  
+0 Bảo quản trong môi trường nhiều oxy  
+1 Đóng kín và giữ trong môi trường khô ráo  
+0 Tăng độ ẩm môi trường xung quanh hạt  
+0 Đặt hạt trong ánh sáng mạnh  
+Khi bảo quản hạt giống, cần làm gì?  
+0 Giữ ẩm cho hạt.  
+1 Phơi khô và bảo quản nơi thoáng mát.  
+0 Tưới nước đều đặn.  
+0 Đặt hạt dưới ánh sáng mặt trời.  
+Cách nào sau đây giúp giảm thiểu mất nước ở cây trồng?  
+0 Tưới nước vào ban ngày.  
+1 Phủ gốc cây bằng rơm hoặc cỏ khô.  
+0 Trồng cây trong bóng râm.  
+0 Tăng nhiệt độ môi trường.  
+Tại sao cần bón phân hợp lý cho cây trồng?  
+0 Để tăng tốc độ sinh sản.  
+1 Để cung cấp đủ dinh dưỡng giúp cây sinh trưởng và phát triển.  
+0 Để giảm lượng nước thoát hơi.  
+0 Để tăng lượng CO2 cho cây.  
+Khi nào cần thụ phấn nhân tạo?  
+0 Khi cây bị sâu bệnh.  
+1 Khi cây trồng không tự thụ phấn được.  
+0 Khi cây thiếu ánh sáng.  
+0 Khi cây bị thiếu nước.  
+Thí nghiệm nào sau đây chứng minh hô hấp tế bào?  
+1 Đặt hạt giống nảy mầm vào bình kín.  
+0 Quan sát sự quang hợp của lá cây.  
+0 Đun sôi nước và theo dõi.  
+0 Cho cây vào bóng tối.  

@@ -1,0 +1,120 @@
+Trao đổi chất là gì?  
+0 Quá trình sinh vật hấp thụ năng lượng từ ánh sáng.  
+1 Quá trình trao đổi vật chất và năng lượng giữa cơ thể và môi trường.  
+0 Quá trình hô hấp ở thực vật.  
+0 Quá trình tiêu hóa thức ăn trong cơ thể.  
+Chức năng chính của lá cây trong quá trình quang hợp là gì?  
+0 Tiêu hóa thức ăn.  
+1 Hấp thụ khí CO2 và giải phóng O2.  
+0 Tích trữ chất dinh dưỡng.  
+0 Hấp thụ ánh sáng và giữ nước.  
+Nguyên liệu chính của quá trình quang hợp là gì?  
+0 O2 và Glucose.  
+1 CO2 và H2O.  
+0 Nước và Glucose.  
+0 CO2 và Protein.  
+Phương trình quang hợp dạng chữ là gì?  
+0 CO2 + H2O → Glucose + O2.  
+1 CO2 + H2O + Ánh sáng → Glucose + O2.  
+0 Glucose + O2 → CO2 + H2O + Năng lượng.  
+0 CO2 + H2O → Protein + Năng lượng.  
+Quá trình hô hấp tế bào ở thực vật diễn ra ở đâu?  
+0 Nhân tế bào.  
+1 Ti thể.  
+0 Màng tế bào.  
+0 Lục lạp.  
+Sản phẩm chính của quá trình hô hấp tế bào là gì?  
+0 Glucose và nước.  
+1 Năng lượng (ATP), CO2, và nước.  
+0 CO2 và O2.  
+0 Glucose và năng lượng.  
+Yếu tố nào sau đây không ảnh hưởng đến quá trình quang hợp?  
+0 Ánh sáng.  
+0 Nhiệt độ.  
+1 Độ pH.  
+0 Nồng độ CO2.  
+Vai trò của hô hấp tế bào là gì?  
+1 Tạo ra năng lượng cung cấp cho các hoạt động sống của tế bào.  
+0 Tổng hợp Glucose từ nước và CO2.  
+0 Hấp thụ ánh sáng từ môi trường.  
+0 Tích trữ năng lượng dưới dạng Glucose.  
+Vai trò chính của nước trong cơ thể thực vật là gì?  
+0 Là nguồn năng lượng.  
+1 Là dung môi và tham gia vào quá trình trao đổi chất.  
+0 Tích trữ CO2.  
+0 Tạo Glucose.  
+Nước được hấp thụ vào cây qua đâu?  
+0 Lá.  
+0 Thân.  
+1 Rễ và miền lông hút.  
+0 Hoa.  
+Quá trình thoát hơi nước ở cây chủ yếu xảy ra qua đâu?  
+0 Rễ.  
+0 Thân cây.  
+1 Lá cây.  
+0 Hoa.  
+Mạch gỗ có chức năng gì?  
+1 Vận chuyển nước và khoáng từ rễ lên lá.  
+0 Vận chuyển chất dinh dưỡng từ lá xuống rễ.  
+0 Tiêu hóa thức ăn.  
+0 Lưu trữ chất béo.  
+Khi tưới quá nhiều nước cho cây sẽ gây ra hiện tượng gì?  
+0 Cây phát triển nhanh hơn.  
+1 Cây bị úng nước, không hấp thụ oxy.  
+0 Cây hấp thụ nhiều dinh dưỡng hơn.  
+0 Cây bị thiếu CO2.  
+Hiện tượng thực vật hướng sáng là ví dụ của loại cảm ứng nào?  
+0 Hướng nước.  
+0 Hướng tiếp xúc.  
+1 Hướng sáng.  
+0 Hướng trọng lực.  
+Vai trò của cảm ứng ở sinh vật là gì?  
+0 Giúp sinh vật phát triển.  
+1 Giúp sinh vật thích nghi và tồn tại trong môi trường sống.  
+0 Tăng khả năng quang hợp.  
+0 Giảm quá trình thoát hơi nước.  
+Tập tính bầy đàn ở động vật là loại tập tính gì?  
+0 Tập tính học được.  
+1 Tập tính bẩm sinh.  
+0 Tập tính thích nghi.  
+0 Tập tính hỗn hợp.  
+Sinh trưởng ở thực vật là gì?  
+1 Sự tăng kích thước và số lượng tế bào.  
+0 Sự phát triển hoa và quả.  
+0 Sự phân chia tế bào.  
+0 Sự sinh sản của cây.  
+Cơ quan nào của thực vật có mô phân sinh?  
+0 Lá.  
+1 Rễ, đỉnh thân và cành.  
+0 Hoa.  
+0 Quả.  
+Nhân tố nào sau đây không ảnh hưởng đến sinh trưởng?  
+0 Nhiệt độ.  
+0 Ánh sáng.  
+1 Tốc độ gió.  
+0 Dinh dưỡng.  
+Sinh sản vô tính là gì?  
+1 Sinh sản không cần giao tử.  
+0 Sinh sản nhờ thụ tinh.  
+0 Sinh sản chỉ có ở động vật.  
+0 Sinh sản chỉ có ở thực vật.  
+Phương pháp nhân giống cây trồng nào sau đây là sinh sản vô tính?  
+0 Lai tạo giống.  
+1 Ghép cành.  
+0 Thụ phấn chéo.  
+0 Đẻ trứng.  
+Quá trình thụ phấn ở thực vật là gì?  
+0 Sự gặp gỡ giữa trứng và tinh trùng.  
+1 Sự vận chuyển hạt phấn từ nhị đến đầu nhụy.  
+0 Sự phát triển của hạt.  
+0 Sự hình thành quả.  
+Sinh sản hữu tính tạo ra điều gì?  
+0 Đời con giống hệt đời bố mẹ.  
+1 Sự đa dạng di truyền.  
+0 Giảm khả năng thích nghi.  
+0 Sự đồng nhất về tính trạng.  
+Loại hoa nào có cả nhị và nhụy?  
+0 Hoa đơn tính.  
+1 Hoa lưỡng tính.  
+0 Hoa thụ phấn chéo.  
+0 Hoa thụ phấn nhờ côn trùng.  
