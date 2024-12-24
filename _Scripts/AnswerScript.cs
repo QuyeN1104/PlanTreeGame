@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿
+// AnswerScript.cs
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
@@ -9,7 +11,7 @@ public class AnswerScript : MonoBehaviour
     public UnityEvent Correct;
     public UnityEvent Wrong;
 
-    public bool isCorrect = false;
+    public bool isCorrect = false; // Biến xác định đúng/sai
 
     private Button button;
     private Image buttonImage;
