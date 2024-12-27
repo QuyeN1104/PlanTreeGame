@@ -1,0 +1,242 @@
+[
+    {
+        "Question": "Trao đổi chất là gì?",
+        "Answers": [
+            "Quá trình sinh vật hấp thụ năng lượng từ ánh sáng.",
+            "Quá trình trao đổi vật chất và năng lượng giữa cơ thể và môi trường.",
+            "Quá trình hô hấp ở thực vật.",
+            "Quá trình tiêu hóa thức ăn trong cơ thể."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Chức năng chính của lá cây trong quá trình quang hợp là gì?",
+        "Answers": [
+            "Tiêu hóa thức ăn.",
+            "Hấp thụ khí CO2 và giải phóng O2.",
+            "Tích trữ chất dinh dưỡng.",
+            "Hấp thụ ánh sáng và giữ nước."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Nguyên liệu chính của quá trình quang hợp là gì?",
+        "Answers": [
+            "O2 và Glucose.",
+            "CO2 và H2O.",
+            "Nước và Glucose.",
+            "CO2 và Protein."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Phương trình quang hợp dạng chữ là gì?",
+        "Answers": [
+            "CO2 + H2O → Glucose + O2.",
+            "CO2 + H2O + Ánh sáng → Glucose + O2.",
+            "Glucose + O2 → CO2 + H2O + Năng lượng.",
+            "CO2 + H2O → Protein + Năng lượng."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Quá trình hô hấp tế bào ở thực vật diễn ra ở đâu?",
+        "Answers": [
+            "Nhân tế bào.",
+            "Ti thể.",
+            "Màng tế bào.",
+            "Lục lạp."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Sản phẩm chính của quá trình hô hấp tế bào là gì?",
+        "Answers": [
+            "Glucose và nước.",
+            "Năng lượng (ATP), CO2, và nước.",
+            "CO2 và O2.",
+            "Glucose và năng lượng."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Yếu tố nào sau đây không ảnh hưởng đến quá trình quang hợp?",
+        "Answers": [
+            "Ánh sáng.",
+            "Nhiệt độ.",
+            "Độ pH.",
+            "Nồng độ CO2."
+        ],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Vai trò của hô hấp tế bào là gì?",
+        "Answers": [
+            "Tạo ra năng lượng cung cấp cho các hoạt động sống của tế bào.",
+            "Tổng hợp Glucose từ nước và CO2.",
+            "Hấp thụ ánh sáng từ môi trường.",
+            "Tích trữ năng lượng dưới dạng Glucose."
+        ],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Vai trò chính của nước trong cơ thể thực vật là gì?",
+        "Answers": [
+            "Là nguồn năng lượng.",
+            "Là dung môi và tham gia vào quá trình trao đổi chất.",
+            "Tích trữ CO2.",
+            "Tạo Glucose."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Nước được hấp thụ vào cây qua đâu?",
+        "Answers": [
+            "Lá.",
+            "Thân.",
+            "Rễ và miền lông hút.",
+            "Hoa."
+        ],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Quá trình thoát hơi nước ở cây chủ yếu xảy ra qua đâu?",
+        "Answers": [
+            "Rễ.",
+            "Thân cây.",
+            "Lá cây.",
+            "Hoa."
+        ],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Mạch gỗ có chức năng gì?",
+        "Answers": [
+            "Vận chuyển nước và khoáng từ rễ lên lá.",
+            "Vận chuyển chất dinh dưỡng từ lá xuống rễ.",
+            "Tiêu hóa thức ăn.",
+            "Lưu trữ chất béo."
+        ],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Khi tưới quá nhiều nước cho cây sẽ gây ra hiện tượng gì?",
+        "Answers": [
+            "Cây phát triển nhanh hơn.",
+            "Cây bị úng nước, không hấp thụ oxy.",
+            "Cây hấp thụ nhiều dinh dưỡng hơn.",
+            "Cây bị thiếu CO2."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Hiện tượng thực vật hướng sáng là ví dụ của loại cảm ứng nào?",
+        "Answers": [
+            "Hướng nước.",
+            "Hướng tiếp xúc.",
+            "Hướng sáng.",
+            "Hướng trọng lực."
+        ],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Vai trò của cảm ứng ở sinh vật là gì?",
+        "Answers": [
+            "Giúp sinh vật phát triển.",
+            "Giúp sinh vật thích nghi và tồn tại trong môi trường sống.",
+            "Tăng khả năng quang hợp.",
+            "Giảm quá trình thoát hơi nước."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Tập tính bầy đàn ở động vật là loại tập tính gì?",
+        "Answers": [
+            "Tập tính học được.",
+            "Tập tính bẩm sinh.",
+            "Tập tính thích nghi.",
+            "Tập tính hỗn hợp."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Sinh trưởng ở thực vật là gì?",
+        "Answers": [
+            "Sự tăng kích thước và số lượng tế bào.",
+            "Sự phát triển hoa và quả.",
+            "Sự phân chia tế bào.",
+            "Sự sinh sản của cây."
+        ],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Cơ quan nào của thực vật có mô phân sinh?",
+        "Answers": [
+            "Lá.",
+            "Rễ, đỉnh thân và cành.",
+            "Hoa.",
+            "Quả."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Nhân tố nào sau đây không ảnh hưởng đến sinh trưởng?",
+        "Answers": [
+            "Nhiệt độ.",
+            "Ánh sáng.",
+            "Tốc độ gió.",
+            "Dinh dưỡng."
+        ],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Sinh sản vô tính là gì?",
+        "Answers": [
+            "Sinh sản không cần giao tử.",
+            "Sinh sản nhờ thụ tinh.",
+            "Sinh sản chỉ có ở động vật.",
+            "Sinh sản chỉ có ở thực vật."
+        ],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Phương pháp nhân giống cây trồng nào sau đây là sinh sản vô tính?",
+        "Answers": [
+            "Lai tạo giống.",
+            "Ghép cành.",
+            "Thụ phấn chéo.",
+            "Đẻ trứng."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Quá trình thụ phấn ở thực vật là gì?",
+        "Answers": [
+            "Sự gặp gỡ giữa trứng và tinh trùng.",
+            "Sự vận chuyển hạt phấn từ nhị đến đầu nhụy.",
+            "Sự phát triển của hạt.",
+            "Sự hình thành quả."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Sinh sản hữu tính tạo ra điều gì?",
+        "Answers": [
+            "Đời con giống hệt đời bố mẹ.",
+            "Sự đa dạng di truyền.",
+            "Giảm khả năng thích nghi.",
+            "Sự đồng nhất về tính trạng."
+        ],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Loại hoa nào có cả nhị và nhụy?",
+        "Answers": [
+            "Hoa đơn tính.",
+            "Hoa lưỡng tính.",
+            "Hoa thụ phấn chéo.",
+            "Hoa thụ phấn nhờ côn trùng."
+        ],
+        "CorrectAnswers": 1
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "Question": "Lá cây hấp thụ khí nào trong quá trình quang hợp?",
+        "Answers": ["N2", "CO", "O2", "CO2"],
+        "CorrectAnswers": 3
+    },
+    {
+        "Question": "Vai trò chính của quang hợp trong hệ sinh thái là gì?",
+        "Answers": ["Giải phóng năng lượng dưới dạng nhiệt", "Sản xuất oxy để duy trì sự sống trên Trái Đất", "Tạo ra nguồn cacbohydrat dự trữ năng lượng", "Phân giải năng lượng ánh sáng thành ATP"],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Nguyên liệu của quá trình quang hợp gồm những gì?",
+        "Answers": ["Glucozơ và oxy", "Nước và ánh sáng", "Glucozơ và CO2", "CO2 và H2O"],
+        "CorrectAnswers": 3
+    },
+    {
+        "Question": "Vì sao lá cây thường có màu xanh lục?",
+        "Answers": ["Do ánh sáng xanh lục được lá hấp thụ mạnh nhất", "Do sắc tố diệp lục phản xạ ánh sáng xanh lục", "Do sắc tố caroten phản chiếu ánh sáng xanh lục", "Do ánh sáng xanh lục không tác động đến diệp lục"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Tốc độ quang hợp thay đổi như thế nào khi cường độ ánh sáng tăng lên?",
+        "Answers": ["Tăng liên tục", "Giảm dần theo thời gian", "Giảm sau khi đạt đến giới hạn bão hòa", "Không thay đổi"],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Thành phần nào là sản phẩm của quang hợp?",
+        "Answers": ["ATP và NADPH", "Glucozơ và oxy", "CO2 và nước", "Nước và oxy"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Vai trò của khí khổng trong quá trình trao đổi chất ở lá cây là gì?",
+        "Answers": ["Hấp thụ nước từ rễ lên lá", "Giúp thoát hơi nước và trao đổi khí", "Chuyển hóa năng lượng ánh sáng thành hóa năng", "Tổng hợp glucozơ từ CO2"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Loại mô nào trong cây chịu trách nhiệm vận chuyển nước và khoáng từ rễ lên lá?",
+        "Answers": ["Mạch rây", "Mạch gỗ", "Lông hút", "Bó mạch"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Phương trình quang hợp tổng quát được viết như thế nào?",
+        "Answers": ["CO2 + H2O → C6H12O6 + O2", "CO2 + H2O → C6H12O6 + O2 + ATP", "H2O + O2 → CO2 + C6H12O6", "O2 + H2O → C6H12O6 + CO2"],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Vai trò của quá trình thoát hơi nước ở lá cây là gì?",
+        "Answers": ["Giảm nhiệt độ bề mặt lá", "Tăng khả năng hấp thụ CO2", "Cung cấp năng lượng cho cây", "Điều hòa hàm lượng đường trong lá"],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Quá trình nào cung cấp năng lượng trực tiếp cho hoạt động sống của tế bào?",
+        "Answers": ["Hô hấp hiếu khí", "Quang hợp", "Trao đổi chất", "Hô hấp kỵ khí"],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Hô hấp hiếu khí xảy ra chủ yếu trong bào quan nào của tế bào?",
+        "Answers": ["Lục lạp", "Ty thể", "Nhân tế bào", "Lưới nội chất"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Yếu tố nào không ảnh hưởng trực tiếp đến quá trình quang hợp?",
+        "Answers": ["Cường độ ánh sáng", "Hàm lượng nước trong đất", "Hàm lượng oxy trong khí quyển", "Nồng độ CO2 trong không khí"],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Quá trình hô hấp tế bào xảy ra mạnh nhất khi nào?",
+        "Answers": ["Ban ngày", "Ban đêm", "Lúc ánh sáng vừa phải", "Ở nhiệt độ thấp"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Mạch rây trong cây có vai trò gì?",
+        "Answers": ["Vận chuyển nước và khoáng từ rễ lên lá", "Vận chuyển chất hữu cơ từ lá đến các bộ phận khác", "Cung cấp năng lượng cho sự sinh trưởng", "Thoát hơi nước qua khí khổng"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Vai trò chính của nước trong quá trình quang hợp là gì?",
+        "Answers": ["Làm mát cây qua thoát hơi nước", "Là nguyên liệu phân tách để tạo oxy", "Hòa tan chất khoáng cho cây hấp thụ", "Hình thành cấu trúc của lục lạp"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Hô hấp kỵ khí xảy ra trong điều kiện nào?",
+        "Answers": ["Khi không có ánh sáng", "Khi không có oxy", "Khi nhiệt độ quá thấp", "Khi nồng độ CO2 cao"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Tại sao rễ cây có nhiều lông hút?",
+        "Answers": ["Tăng diện tích tiếp xúc hấp thụ nước và khoáng", "Cung cấp oxy cho cây", "Tạo môi trường axit để hòa tan khoáng", "Chuyển hóa nước thành chất hữu cơ"],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Bộ phận nào của hoa đóng vai trò trong quá trình thụ phấn?",
+        "Answers": ["Cánh hoa", "Nhị và nhụy", "Đài hoa", "Hạt phấn"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Yếu tố nào ảnh hưởng đến khả năng thoát hơi nước của lá?",
+        "Answers": ["Độ ẩm không khí", "Màu sắc lá", "Số lượng lục lạp", "Loại cây"],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Sự hấp thụ nước ở rễ xảy ra qua cơ quan nào?",
+        "Answers": ["Mạch gỗ", "Mạch rây", "Lông hút", "Tế bào vỏ rễ"],
+        "CorrectAnswers": 2
+    },
+    {
+        "Question": "Vì sao khi tưới cây vào buổi trưa nắng gắt không hiệu quả?",
+        "Answers": ["Cây không hấp thụ nước vào ban ngày", "Lượng nước bay hơi nhanh, không kịp hấp thụ", "Rễ cây không hoạt động khi trời nắng", "Nhiệt độ cao làm nước hóa hơi trực tiếp trong đất"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Thí nghiệm nào chứng minh hô hấp tế bào ở hạt?",
+        "Answers": ["Sử dụng bình kín và phát hiện CO2", "Đặt hạt vào ánh sáng và đo lượng O2", "Ngâm hạt trong dung dịch muối", "Đặt hạt trong môi trường thiếu nước"],
+        "CorrectAnswers": 0
+    },
+    {
+        "Question": "Vai trò của mô phân sinh ở thực vật là gì?",
+        "Answers": ["Hấp thụ nước và khoáng từ đất", "Giúp cây sinh trưởng bằng cách phân chia tế bào", "Tổng hợp năng lượng ATP", "Vận chuyển chất dinh dưỡng"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Phương pháp bảo quản hạt giống lâu dài thường được áp dụng là gì?",
+        "Answers": ["Bảo quản trong môi trường nhiều oxy", "Đóng kín và giữ trong môi trường khô ráo", "Tăng độ ẩm môi trường xung quanh hạt", "Đặt hạt trong ánh sáng mạnh"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Khi bảo quản hạt giống, cần làm gì?",
+        "Answers": ["Giữ ẩm cho hạt", "Phơi khô và bảo quản nơi thoáng mát", "Tưới nước đều đặn", "Đặt hạt dưới ánh sáng mặt trời"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Cách nào sau đây giúp giảm thiểu mất nước ở cây trồng?",
+        "Answers": ["Tưới nước vào ban ngày", "Phủ gốc cây bằng rơm hoặc cỏ khô", "Trồng cây trong bóng râm", "Tăng nhiệt độ môi trường"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Tại sao cần bón phân hợp lý cho cây trồng?",
+        "Answers": ["Để tăng tốc độ sinh sản", "Để cung cấp đủ dinh dưỡng giúp cây sinh trưởng và phát triển", "Để giảm lượng nước thoát hơi", "Để tăng lượng CO2 cho cây"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Khi nào cần thụ phấn nhân tạo?",
+        "Answers": ["Khi cây bị sâu bệnh", "Khi cây trồng không tự thụ phấn được", "Khi cây thiếu ánh sáng", "Khi cây bị thiếu nước"],
+        "CorrectAnswers": 1
+    },
+    {
+        "Question": "Thí nghiệm nào sau đây chứng minh hô hấp tế bào?",
+        "Answers": ["Đặt hạt giống nảy mầm vào bình kín", "Quan sát sự quang hợp của lá cây", "Đun sôi nước và theo dõi", "Cho cây vào bóng tối"],
+        "CorrectAnswers": 0
+    }
+]
